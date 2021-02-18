@@ -15,4 +15,3 @@ const userTimeAndMonth = (time,Month,day) =>{
     // returns a request for proper data if the data is above the threshold for the amounts
     }}else {
         console.log("please insert proper data")}}
-userTimeAndMonth(1,11,22)
