@@ -1,1 +1,2 @@
-console.log('hello world')
+let singEvalFire = ["you should watch your back","love is right around the corner for you","you will receive great happiness soon","keep your eyes open for oppurtunities","when one door closes another opens keep your head up",]
+let signEvalWater = [""]
